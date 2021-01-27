@@ -26,7 +26,7 @@ I was inspired by games like Earthbound and Yume Nikki, I made different designs
 ![protagonist1](img/Prota.gif) ![protagonist2](img/Prota2.gif) ![protagonist3](img/Prota3.gif)
 
 ### Secundary characters
-The idea of the mirror is that the protagonist can talk to him to receive advice or teleport to other worlds, the mirror is alive and has its own personality, he is not very friendly so to get his help the protagonist needs to give him something in return.
+The idea of the mirror is that the protagonist can talk with him to receive advice or teleport to other worlds, the mirror is alive and has its own personality, he is not very friendly so to get his help the protagonist needs to give him something in return.
 
 ![mirror](img/Mirror.png)
 
@@ -35,10 +35,21 @@ A generic demon is the first "paranormal" interaction with the protagonist, it's
 ![normal demon](img/NormalDemon.png)
 
 ### Objects and room
+These are the objects that I designed for the protagonist's room, there is also the color of the walls and the floor.
+Below I describe each of the objects and the operation I have in mind for them.
+- Door: well, it's a door, the protagonist can go out through it.
+- Diary: here the player can see information related to their progress in the game.
+- Bed: In real life for sleep, in video games for save the game (or at least in this one).
+- Bookcase: I have the idea that in the bookcase the player can see interesting information about the game world.
 
+![objects](img/Objects.png)
 
 ### Map of the house
+The architecture of the protagonist's house, may have changes in the future.
+
+![prota house](img/ProtaHouse.png)
 
 ## Posible characters
+Characters that I designed a long time ago, it occurred to me that I might add them to the video game in the future.
 
-![classroom](img/6.PNG)
+![party](img/party.png)
