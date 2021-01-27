@@ -19,6 +19,9 @@ The basic idea is that it be an open world game where the protagonist must go th
 What is the final goal? well, that's still a mystery.
 
 ## Design
+A little demonstration of the game.
+
+![demo](#img/PlayWithSatan 2021-01-26 22-44-37_Trim.gif)
 
 ### Protagonist
 I was inspired by games like Earthbound and Yume Nikki, I made different designs for the protagonist, the third one is the one I liked the most, the idea is that the character has an inventory, so the backpack is a good additive to justify where she carries her objects.
