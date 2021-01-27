@@ -36,9 +36,9 @@ A generic demon is the first "paranormal" interaction with the protagonist, it's
 
 ### Objects and room
 These are the objects that I designed for the protagonist's room, there is also the color of the walls and the floor.
-Below I describe each of the objects and the operation I have in mind for them.
-- Door: well, it's a door, the protagonist can go out through it.
-- Diary: here the player can see information related to their progress in the game.
+Below I describe each of the objects and the function I have in mind for them.
+- Door: Well, it's a door, the protagonist can go out through it.
+- Diary: Here the player can see information related to their progress in the game.
 - Bed: In real life for sleep, in video games for save the game (or at least in this one).
 - Bookcase: I have the idea that in the bookcase the player can see interesting information about the game world.
 
