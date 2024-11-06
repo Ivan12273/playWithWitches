@@ -1,4 +1,4 @@
-# Play with Satan (or better not)
+# Play with Witches (or better not)
 My personal game project
 
 This is a demo I did for learning, I will continue the project in a new version of Unity reusing all the desings of this project, I´m still planning the game mechanics.
